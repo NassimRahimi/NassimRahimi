@@ -2,6 +2,11 @@
 
 AI/ML and GenAI architect focused on production-grade agentic systems, runtime controls, evaluation, observability, governance, and reliable AI delivery in regulated environments.
 
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/nassim-rahimi/
+- GitHub: https://github.com/NassimRahimi
+
 ## Focus areas
 
 - Agentic AI systems and controlled multi-agent workflows
