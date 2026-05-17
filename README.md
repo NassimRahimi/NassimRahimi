@@ -16,6 +16,7 @@ AI/ML and GenAI architect focused on production-grade agentic systems, runtime c
 
 ## Selected projects
 
-- agent-governance: governance controls, guardrails, audit logs, and readiness checks for agentic AI systems
-- agent-failure-recovery: failure detection, recovery patterns, rollback, and runtime controls for agent workflows
-- EmployeeAttrition: ML explainability and deployment demo with FastAPI, Streamlit, Docker, and SHAP
+- [invoice-dispute-resolution](https://github.com/NassimRahimi/invoice-dispute-resolution): Controlled agentic AI reference implementation for invoice dispute resolution with evidence retrieval, deterministic validation, HITL, tool-broker controls, and audit trace.
+- [agent-governance](https://github.com/NassimRahimi/agent-governance): Governance controls, guardrails, audit logs, and readiness checks for agentic AI systems.
+- [agent-failure-recovery](https://github.com/NassimRahimi/agent-failure-recovery): Failure detection, recovery patterns, rollback, and runtime controls for agent workflows.
+- [EmployeeAttrition](https://github.com/NassimRahimi/EmployeeAttrition): ML explainability and deployment demo with FastAPI, Streamlit, Docker, and SHAP.
